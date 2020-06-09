@@ -131,3 +131,6 @@ __pycache__
 *.mat
 assignments/assignment4/*_kaggle/*.jpg
 assignments/assignment4/subm.csv
+__MACOSX/
+stanfordSentimentTreebank/
+assignments/assignment5/stanfordSentimentTreebank.zip
